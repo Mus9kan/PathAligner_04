@@ -1,0 +1,12 @@
+Flask
+gunicorn
+psycopg2-binary
+openai
+requests
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+gunicorn
+python-dotenv
